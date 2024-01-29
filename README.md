@@ -8,13 +8,13 @@
   <p>Junior <b>Frontend developer</b> and beginner <b>Web Designer</b></p>
 
 Activity:
-  - Development &#9000;
-  - Design &#128444;
+  - Development
+  - Design
 
 Hobbies:
-  - Drawing &#127912;
-  - Video editing &#127916;
-  - Making Animations (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+  - Drawing
+  - Video editing
+  - Making Animations
 </div>
 
 ## Languages and tools
