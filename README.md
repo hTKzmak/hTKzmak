@@ -5,13 +5,13 @@
 ## About me
 
 <div id="about" align="left">
-  <h3>Junior Frontend developer and beginner Web Designer</h3>
+  <p>Junior Frontend developer and beginner Web Designer</p>
 
   - Developer
   - Designer
   - Artist
   - Editor
-  - Animator
+  - Animator (Cartoonist)
 </div>
 
 ## Languages and tools
