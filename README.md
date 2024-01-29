@@ -9,9 +9,11 @@
 
   - Developer
   - Designer
-  - Artist
-  - Editor
-  - Animator (Cartoonist)
+
+Hobbies:
+  - Drawing
+  - Video editing
+  - Making Animations
 </div>
 
 ## Languages and tools
