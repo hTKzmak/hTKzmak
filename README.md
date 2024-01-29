@@ -7,6 +7,10 @@
 <div id="about" align="left">
   <p>Junior Frontend developer and beginner Web Designer</p>
 
+Activity:
+  - Development
+  - Design
+
 Hobbies:
   - Drawing
   - Video editing
