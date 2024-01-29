@@ -2,8 +2,6 @@
   <img src="./assets/header.gif"/>
 </div>
 
-<br>
-
 ## About me
 
 <div id="about" align="left">
@@ -15,8 +13,6 @@
   - Editor
   - Animator
 </div>
-
-<br>
 
 ## Languages and tools
 
