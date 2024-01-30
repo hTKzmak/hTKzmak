@@ -14,7 +14,7 @@ Activity:
 Hobbies:
   - Drawing
   - Video editing
-  - Making Animations
+  - Making animations
 </div>
 
 ## Languages and tools
