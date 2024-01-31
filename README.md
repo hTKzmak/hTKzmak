@@ -7,7 +7,7 @@
 <div id="about" align="left">
   <p>Junior <b>Frontend developer</b> and beginner <b>Web Designer</b></p>
 
-Activity:
+Activities:
   - Development
   - Design
 
