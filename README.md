@@ -34,3 +34,7 @@ Hobbies:
  <img src="https://github.com/devicons/devicon/blob/master/icons%2Fblender%2Fblender-original.svg" title="Blender" **alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div> 
+
+## Projects:
+  - Garden web store: https://github.com/hTKzmak/IE_FE_Project
+  - Landing page: https://github.com/hTKzmak/Alex-Wylliam-landing
