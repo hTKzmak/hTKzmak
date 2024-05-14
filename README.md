@@ -5,7 +5,7 @@
 ## About me
 
 <div id="about" align="left">
-  <p>Junior <b>Frontend developer</b> and beginner <b>Web Designer</b></p>
+  <p>Junior <b>Frontend developer</b> and beginner <b>Web Designer</b> (or UX/UI Designer, idk (´• ω •`))</p>
 
 Activities:
   - Development
