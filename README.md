@@ -37,5 +37,4 @@ Hobbies:
 
 ## Projects:
   - Garden web store: https://github.com/hTKzmak/IE_FE_Project
-##  - Landing page: https://github.com/hTKzmak/Alex-Wylliam-landing
   - Noises: https://github.com/hTKzmak/Noises_web-project 
