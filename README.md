@@ -58,9 +58,9 @@ Hobbies:
 
 ## Projects:
 <div id="projects" align="left">
-  - Garden (web store): https://github.com/hTKzmak/IE_FE_Project
+- Garden (web store): https://github.com/hTKzmak/IE_FE_Project
   
-  - Noises (web music service): https://github.com/hTKzmak/Noises_web-project
+- Noises (web music service): https://github.com/hTKzmak/Noises_web-project
     
-  - AppleStore (web store): https://github.com/hTKzmak/AS-V_Project 
+- AppleStore (web store): https://github.com/hTKzmak/AS-V_Project 
 </div>
