@@ -55,3 +55,10 @@ Hobbies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   
 </div>
+
+## Projects:
+<div id="projects" align="left">
+  - Garden (web store): https://github.com/hTKzmak/IE_FE_Project
+  - Noises (web music service): https://github.com/hTKzmak/Noises_web-project
+  - AppleStore (web store): https://github.com/hTKzmak/AS-V_Project 
+</div>
