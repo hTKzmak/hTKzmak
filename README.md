@@ -68,5 +68,7 @@ Hobbies:
   
 - Noises (web music service): https://github.com/hTKzmak/Noises_web-project
     
-- AppleStore (web store): https://github.com/hTKzmak/AS-V_Project 
+- AppleStore (web store): https://github.com/hTKzmak/AS-V_Project
+
+- Trello copy (in development): https://github.com/hTKzmak/trader-trello
 </div>
