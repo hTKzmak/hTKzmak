@@ -66,4 +66,6 @@ Hobbies:
 - AppleStore (web store): https://github.com/hTKzmak/AS-V_Project
 
 - Trello copy (in development): https://github.com/hTKzmak/trader-trello
+
+<!-- - ???: https://github.com/hTKzmak/Virtual_mind -->
 </div>
