@@ -1,7 +1,7 @@
-<p align="center">
-  <a href="msi020205@gmail.com">Gmail</a> -
-  <a href="https://t.me/hTKzmak">Telegram</a>
-</p>
+//<p align="center">
+//  <a href="msi020205@gmail.com">Gmail</a> -
+//  <a href="https://t.me/hTKzmak">Telegram</a>
+//</p>
 
 <div id="header" align="center">
   <img src="./assets/header.gif"/>
