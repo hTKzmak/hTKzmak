@@ -52,11 +52,11 @@ Hobbies:
   #### Stll learning
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.phaser.io/images/logo/logo-download-vector.png" title="Phaser" alt="Phaser" width="50" height="40"/>
   
 </div>
 
-## Projects:
 <div id="projects" align="left">
 
 - Garden (web store): https://github.com/hTKzmak/IE_FE_Project
@@ -67,5 +67,7 @@ Hobbies:
 
 - Trello copy (in development): https://github.com/hTKzmak/trader-trello
 
-<!-- - ???: https://github.com/hTKzmak/Virtual_mind -->
-</div>
+- Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
+
+<!-- - ???: https://github.com/hTKzmak/Virtual_mind
+</div> -->
