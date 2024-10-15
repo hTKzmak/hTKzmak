@@ -57,6 +57,8 @@ Hobbies:
   
 </div>
 
+
+## Projects
 <div id="projects" align="left">
 
 - Garden (web store): https://github.com/hTKzmak/IE_FE_Project
@@ -70,4 +72,4 @@ Hobbies:
 - Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
 
 <!-- - ???: https://github.com/hTKzmak/Virtual_mind
-</div> -->
+</div>
