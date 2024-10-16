@@ -71,5 +71,5 @@ Hobbies:
 
 - Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
 
-<!-- - ???: https://github.com/hTKzmak/Virtual_mind
+- Virtual mind (game in development): https://github.com/hTKzmak/Virtual_mind
 </div>
