@@ -34,6 +34,7 @@ Hobbies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SAAS" alt="SAAS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp; -->
 
   #### Design
@@ -61,13 +62,13 @@ Hobbies:
 ## Projects
 <div id="projects" align="left">
 
-- Garden (web store): https://github.com/hTKzmak/IE_FE_Project
+- Garden web store: https://github.com/hTKzmak/IE_FE_Project
   
-- Noises (web music service): https://github.com/hTKzmak/Noises_web-project
+- Noises: https://github.com/hTKzmak/Noises_web-project
     
-- AppleStore (web store): https://github.com/hTKzmak/AS-V_Project
+- AppleStore: https://github.com/hTKzmak/AS-V_Project
 
-- Trello copy (in development): https://github.com/hTKzmak/trader-trello
+- Trello copy: https://github.com/hTKzmak/trader-trello
 
 - Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
 
