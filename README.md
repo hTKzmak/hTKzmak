@@ -6,7 +6,7 @@
 ##
 
 <div id="about" align="left">
-  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> and beginner <b>Web/UX/UI Designer</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps.</p>
+  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> and beginner <b>Web/UX/UI Designer</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. Also interested in game development.</p>
 
 Activity:
   - Development 💻
