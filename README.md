@@ -6,7 +6,7 @@
 ##
 
 <div id="about" align="left">
-  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> and beginner <b>Web/UX/UI Designer</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. Also interested in game development.</p>
+  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> and beginner <b>ư̴̸̵̵̷̢̛͘͘͢͝ņ̶̴̛́͘̕̕͢͢͡͡d̡̢̀̕͘̕͜҉̷̢̕͢e͏̶̧҉̷̧̧̢̀͠͞͝f͏̸̴̨̡̨̢̨̨͘͝͞i҉̴̡̨͘͘͘͟͟͢͞҉ń̷̴̸̴̨͜͢͜͠͏̨e͏̧̀̕҉̸͏̵̡́͜͢ḑ̷̛͘҉̸̢̀̀͘͠͠ ̷̧͏̶̡́̀͘͠҉̴̷ù̶̷̢́̀͢͡͠͞͠҉n̵̵̴̢̧̨̛͜͢͜͡͝d̢̡̀͘͝͏̷̨͜͠͠͏e҉̢̛͘͠҉̡͢҉̵̶͝f͘҉͜͏̸̢̡́͢҉̨́į̵̵̷̀́͘͘͡͝҉͘ņ̸̶͝͏̴̶̧̀͜͞͡ȩ̷̸͝҉̶̴̨͢͜͢͝d̀҉̷̶̷̴̴̢̀̕͜҉</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. Also interested in game development.</p>
 
 Activity:
   - Development 💻
