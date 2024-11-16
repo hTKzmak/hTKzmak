@@ -6,7 +6,7 @@
 ##
 
 <div id="about" align="left">
-  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> and beginner <b>ư̴̸̵̵̷̢̛͘͘͢͝ņ̶̴̛́͘̕̕͢͢͡͡d̡̢̀̕͘̕͜҉̷̢̕͢e͏̶̧҉̷̧̧̢̀͠͞͝f͏̸̴̨̡̨̢̨̨͘͝͞i҉̴̡̨͘͘͘͟͟͢͞҉ń̷̴̸̴̨͜͢͜͠͏̨e͏̧̀̕҉̸͏̵̡́͜͢ḑ̷̛͘҉̸̢̀̀͘͠͠ ̷̧͏̶̡́̀͘͠҉̴̷ù̶̷̢́̀͢͡͠͞͠҉n̵̵̴̢̧̨̛͜͢͜͡͝d̢̡̀͘͝͏̷̨͜͠͠͏e҉̢̛͘͠҉̡͢҉̵̶͝f͘҉͜͏̸̢̡́͢҉̨́į̵̵̷̀́͘͘͡͝҉͘ņ̸̶͝͏̴̶̧̀͜͞͡ȩ̷̸͝҉̶̴̨͢͜͢͝d̀҉̷̶̷̴̴̢̀̕͜҉</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. Also interested in game development.</p>
+  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> and beginner <b>ư̵͘͢͢͢͟n̶͠͏̀͞҉̕d̸̛̛̀͡͡҉e̷̶̸͜͟͞͝f̢͏͟͢͢͜͡i̷̡̨̛͟͞͏ǹ̸͘͢҉̀͟e͏̸҉̸̧͘͞d̵̡́͘͜͞͝ ̨̨͜҉̛͞͝ų̴̴̴̡͜͝n̷̵̵͝͡҉́d̸̴̴̨͘͢͡e̶̴̕͟͢͡͏f̷̧́̀́͟͡i̧̛̛͝͠͡͝n̶̴̡͞͞҉̀é̵̴̶̢̕͢d̷̶̀͘͢͡͡</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. Also interested in game development.</p>
 
 Activity:
   - Development 💻
