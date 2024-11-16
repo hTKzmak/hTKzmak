@@ -6,7 +6,7 @@
 ##
 
 <div id="about" align="left">
-  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> and beginner <b>ư̵͘͢͢͢͟n̶͠͏̀͞҉̕d̸̛̛̀͡͡҉e̷̶̸͜͟͞͝f̢͏͟͢͢͜͡i̷̡̨̛͟͞͏ǹ̸͘͢҉̀͟e͏̸҉̸̧͘͞d̵̡́͘͜͞͝ ̨̨͜҉̛͞͝ų̴̴̴̡͜͝n̷̵̵͝͡҉́d̸̴̴̨͘͢͡e̶̴̕͟͢͡͏f̷̧́̀́͟͡i̧̛̛͝͠͡͝n̶̴̡͞͞҉̀é̵̴̶̢̕͢d̷̶̀͘͢͡͡</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. ų̴̨̢́͘͠n҉͏̸҉̶̸͞ḑ̨̢̀̕͠͝e͘҉̷̷́́͢f́͏̷̨͟͞͠ì̛͏̸̡́͡n͘͝͞҉̸̧͜ę̵̸̵̡́͝d̨̨̨̀͝͝͞ ̵̧́͘͘͠͞u̴̶̧͢͡͝͝n̷̨̨͟͢͟͡d͏̸̨̨́͘͝e̵͏̴͟͟҉̴f̀̕͢͜͝͞͡í̸̡̡́͡͞ņ̴̵̸̡̢͝é̵̢̕͘͜͞d̶̡̕͟͠͠͝ ͝҉̛́͘͢͝ứ͘͟͝͏̀ń̵̕͢͢͡͠d̸̢̡͘̕͡͝ȩ̵̷̢́̀͝f̶̧̀̀́͢͜i͝͏̸̶͘͟͞n̸̸̷̸̛̕͢e҉̢̕͝͞͠͡d̷̸͜͝͡҉̷ ̷̴̕͘͟͝͝u҉̶̀͞͠҉̵n͏̶̶̵̢̧͡d̢̀̀̀͟͠҉ȩ͢͡҉̧͟͞f̵̛͜͏̡͞͞i̴̶̶̧̛̛͜n͠͏̸͘͜҉҉è̵̡̧̀͝͏d̴͏̷̨̛͟͜ ̴̸̨̀́͟͞</p>
+  <p align="center">I'm a 19-years-old junior <b>Frontend developer</b> ų̸̷̸̢́͘̕͢͝n̸̵̡͘͢͢͡͝͠͠d̴̡̛̛́͘͠҉͟͢e̶̶̶̷̢͟͜͡͞͞f̸҉̶̡́͘͜͞͠͠i̵͘͘̕͢͜͏̀̀͏n̨̢͞͏̢̡̧̛̀͞é̶̸̢̢̛̀̕͢͢d̷̷̴̨̧̧̀͘͟҉ ͏͝҉̶̧̧͘͢͠͞u͏̸͢͏̶̶̶̴̨́n̸̴̵̶̴̢͟͟͞͠d҉̨̢̨̨̛́̕̕͠é̷̵̡̛͘͜͠͞͝f̡̧̡̕͟͞͠͏̧̨į̶̛̛̀̀͏̴̢̨ņ̸̷̢́̕͢͝͠͞è̶̵̕͘͢͜͏̷̸d̴̴̡́͢͞҉̴̨͠ <b>ư̵͘͢͢͢͟n̶͠͏̀͞҉̕d̸̛̛̀͡͡҉e̷̶̸͜͟͞͝f̢͏͟͢͢͜͡i̷̡̨̛͟͞͏ǹ̸͘͢҉̀͟e͏̸҉̸̧͘͞d̵̡́͘͜͞͝ ̨̨͜҉̛͞͝ų̴̴̴̡͜͝n̷̵̵͝͡҉́d̸̴̴̨͘͢͡e̶̴̕͟͢͡͏f̷̧́̀́͟͡i̧̛̛͝͠͡͝n̶̴̡͞͞҉̀é̵̴̶̢̕͢d̷̶̀͘͢͡͡</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. ų̴̨̢́͘͠n҉͏̸҉̶̸͞ḑ̨̢̀̕͠͝e͘҉̷̷́́͢f́͏̷̨͟͞͠ì̛͏̸̡́͡n͘͝͞҉̸̧͜ę̵̸̵̡́͝d̨̨̨̀͝͝͞ ̵̧́͘͘͠͞u̴̶̧͢͡͝͝n̷̨̨͟͢͟͡d͏̸̨̨́͘͝e̵͏̴͟͟҉̴f̀̕͢͜͝͞͡í̸̡̡́͡͞ņ̴̵̸̡̢͝é̵̢̕͘͜͞d̶̡̕͟͠͠͝ ͝҉̛́͘͢͝ứ͘͟͝͏̀ń̵̕͢͢͡͠d̸̢̡͘̕͡͝ȩ̵̷̢́̀͝f̶̧̀̀́͢͜i͝͏̸̶͘͟͞n̸̸̷̸̛̕͢e҉̢̕͝͞͠͡d̷̸͜͝͡҉̷ ̷̴̕͘͟͝͝u҉̶̀͞͠҉̵n͏̶̶̵̢̧͡d̢̀̀̀͟͠҉ȩ͢͡҉̧͟͞f̵̛͜͏̡͞͞i̴̶̶̧̛̛͜n͠͏̸͘͜҉҉è̵̡̧̀͝͏d̴͏̷̨̛͟͜ ̴̸̨̀́͟͞</p>
 
 Activity:
   - Development 💻
