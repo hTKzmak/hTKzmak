@@ -6,7 +6,7 @@
 ##
 
 <div id="about" align="left">
-  <p align="center">I'm a 19-years-old <b>Frontend developer</b> ų̸̷̸̢́͘̕͢͝n̸̵̡͘͢͢͡͝͠͠d̴̡̛̛́͘͠҉͟͢e̶̶̶̷̢͟͜͡͞͞f̸҉̶̡́͘͜͞͠͠i̵͘͘̕͢͜͏̀̀͏n̨̢͞͏̢̡̧̛̀͞é̶̸̢̢̛̀̕͢͢d̷̷̴̨̧̧̀͘͟҉ ͏͝҉̶̧̧͘͢͠͞u͏̸͢͏̶̶̶̴̨́n̸̴̵̶̴̢͟͟͞͠d҉̨̢̨̨̛́̕̕͠é̷̵̡̛͘͜͠͞͝f̡̧̡̕͟͞͠͏̧̨į̶̛̛̀̀͏̴̢̨ņ̸̷̢́̕͢͝͠͞è̶̵̕͘͢͜͏̷̸d̴̴̡́͢͞҉̴̨͠ <b>ư̵͘͢͢͢͟n̶͠͏̀͞҉̕d̸̛̛̀͡͡҉e̷̶̸͜͟͞͝f̢͏͟͢͢͜͡i̷̡̨̛͟͞͏ǹ̸͘͢҉̀͟e͏̸҉̸̧͘͞d̵̡́͘͜͞͝ ̨̨͜҉̛͞͝ų̴̴̴̡͜͝n̷̵̵͝͡҉́d̸̴̴̨͘͢͡e̶̴̕͟͢͡͏f̷̧́̀́͟͡i̧̛̛͝͠͡͝n̶̴̡͞͞҉̀é̵̴̶̢̕͢d̷̶̀͘͢͡͡</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps. ų̴̨̢́͘͠n҉͏̸҉̶̸͞ḑ̨̢̀̕͠͝e͘҉̷̷́́͢f́͏̷̨͟͞͠ì̛͏̸̡́͡n͘͝͞҉̸̧͜ę̵̸̵̡́͝d̨̨̨̀͝͝͞ ̵̧́͘͘͠͞u̴̶̧͢͡͝͝n̷̨̨͟͢͟͡d͏̸̨̨́͘͝e̵͏̴͟͟҉̴f̀̕͢͜͝͞͡í̸̡̡́͡͞ņ̴̵̸̡̢͝é̵̢̕͘͜͞d̶̡̕͟͠͠͝ ͝҉̛́͘͢͝ứ͘͟͝͏̀ń̵̕͢͢͡͠d̸̢̡͘̕͡͝ȩ̵̷̢́̀͝f̶̧̀̀́͢͜i͝͏̸̶͘͟͞n̸̸̷̸̛̕͢e҉̢̕͝͞͠͡d̷̸͜͝͡҉̷ ̷̴̕͘͟͝͝u҉̶̀͞͠҉̵n͏̶̶̵̢̧͡d̢̀̀̀͟͠҉ȩ͢͡҉̧͟͞f̵̛͜͏̡͞͞i̴̶̶̧̛̛͜n͠͏̸͘͜҉҉è̵̡̧̀͝͏d̴͏̷̨̛͟͜ ̴̸̨̀́͟͞</p>
+  <p align="center">I'm a 19-years-old <b>Frontend developer</b> and beginner <b>WEB/UX/UI</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps.</p>
 
 Activity:
   - Development 💻
@@ -34,7 +34,8 @@ Hobbies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/> 
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SAAS" alt="SAAS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+ <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40"/>
   <img src="https://cdn.phaser.io/images/logo/logo-download-vector.png" title="Phaser" alt="Phaser" width="50" height="40"/>
 
   #### Design
