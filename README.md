@@ -67,6 +67,3 @@ Hobbies:
 - Trello copy: https://github.com/hTKzmak/trader-trello
 
 - Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
-
-- Virtual mind (game in development): https://github.com/hTKzmak/Virtual_mind
-</div>
