@@ -67,3 +67,5 @@ Hobbies:
 - Trello copy: https://github.com/hTKzmak/trader-trello
 
 - Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
+
+- Typical RPG Maker game, but for WEB: https://github.com/hTKzmak/VM_GAME
