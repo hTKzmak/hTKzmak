@@ -58,14 +58,16 @@ Hobbies:
 ## Projects
 <div id="projects" align="left">
 
-- Garden web store: https://github.com/hTKzmak/IE_FE_Project
-  
-- Noises: https://github.com/hTKzmak/Noises_web-project
-    
 - AppleStore: https://github.com/hTKzmak/AS-V_Project
-
+  
 - Trello copy: https://github.com/hTKzmak/trader-trello
 
 - Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
-
+  
 - VM001 - Game: https://github.com/hTKzmak/VM_GAME
+  
+- Noises: https://github.com/hTKzmak/Noises_web-project
+    
+- Garden web store: https://github.com/hTKzmak/IE_FE_Project
+
+
