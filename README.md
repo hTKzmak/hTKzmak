@@ -72,4 +72,8 @@ Hobbies:
 
 - Simple SPA project: https://github.com/hTKzmak/spa-vite
 
+- IndexedDB: https://github.com/hTKzmak/indexedDB-HTML5
+
+- FileReader API: https://github.com/hTKzmak/HTML5_FilereaderAPI
+
 
