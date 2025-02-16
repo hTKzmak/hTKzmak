@@ -14,7 +14,6 @@ Activity:
 
 Hobbies:
   - Drawing 🎨
-  - Video editing 🎥
   - Making Animations 🎬 
 </div>
 
@@ -66,14 +65,10 @@ Hobbies:
   
 - VM001 - Game: https://github.com/hTKzmak/VM_GAME
   
-- Noises: https://github.com/hTKzmak/Noises_web-project
-    
-- Garden web store: https://github.com/hTKzmak/IE_FE_Project
+- Project: Noises (NEW): https://github.com/hTKzmak/noises_audio-hosting
 
 - Simple SPA project: https://github.com/hTKzmak/spa-vite
 
 - IndexedDB: https://github.com/hTKzmak/indexedDB-HTML5
-
-- FileReader API: https://github.com/hTKzmak/HTML5_FilereaderAPI
 
 
