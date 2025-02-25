@@ -57,18 +57,16 @@ Hobbies:
 ## Projects
 <div id="projects" align="left">
 
+- VM001 (Game): https://github.com/hTKzmak/VM_GAME
+  
+- Noises (Audio-hosting): https://github.com/hTKzmak/noises_audio-hosting
+
 - AppleStore: https://github.com/hTKzmak/AS-V_Project
   
-- Trello copy: https://github.com/hTKzmak/trader-trello
+- Trello frontend copy: https://github.com/hTKzmak/trader-trello
 
 - Alex William landing: https://github.com/hTKzmak/Alex-Wylliam-landing
-  
-- VM001 - Game: https://github.com/hTKzmak/VM_GAME
-  
-- Project: Noises (NEW): https://github.com/hTKzmak/noises_audio-hosting
 
-- Simple SPA project: https://github.com/hTKzmak/spa-vite
-
-- IndexedDB: https://github.com/hTKzmak/indexedDB-HTML5
+- Emoji library: https://github.com/hTKzmak/spa-vite
 
 
