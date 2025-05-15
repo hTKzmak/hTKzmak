@@ -14,6 +14,7 @@ Activity:
 
 Hobbies:
   - Drawing 🎨
+  - Video editing 🎞️
   - Making Animations 🎬 
 </div>
 
