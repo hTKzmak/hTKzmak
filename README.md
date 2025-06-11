@@ -36,6 +36,7 @@ Hobbies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SAAS" alt="SAAS" width="40" height="40"/>
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="40"/>
   <img src="https://cdn.phaser.io/images/logo/logo-download-vector.png" title="Phaser" alt="Phaser" width="50" height="40"/>
 
   #### Design
@@ -51,17 +52,21 @@ Hobbies:
   #### Other tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
 </div>
 
 
 ## Projects
 <div id="projects" align="left">
+- Noises (Audio-hosting): https://github.com/hTKzmak/noises_audio-hosting
+
+- DA GAME: https://github.com/hTKzmak/da_game
 
 - VM001 (Game): https://github.com/hTKzmak/VM_GAME
   
-- Noises (Audio-hosting): https://github.com/hTKzmak/noises_audio-hosting
-
 - AppleStore: https://github.com/hTKzmak/AS-V_Project
   
 - Trello frontend copy: https://github.com/hTKzmak/trader-trello
