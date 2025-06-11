@@ -32,6 +32,7 @@ Hobbies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F467284%2Fpinia&psig=AOvVaw26z9NeikQ6qspW91hqWlj-&ust=1749743035728000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjhgfHa6Y0DFQAAAAAdAAAAABAT" title="Pinia" alt="Pinia" width="50" height="40"/>
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SAAS" alt="SAAS" width="40" height="40"/>
  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/> -->
