@@ -62,6 +62,7 @@ Hobbies:
 
 ## Projects
 <div id="projects" align="left">
+  
 - Noises (Audio-hosting): https://github.com/hTKzmak/noises_audio-hosting
 
 - DA GAME: https://github.com/hTKzmak/da_game
